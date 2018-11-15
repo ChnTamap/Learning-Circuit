@@ -1,50 +1,76 @@
 # Learning-Circuit
 
 Lesson of circuit for SinceTech.
-ç”µå­å­¦ä¹ é¡¹ç›®
 
-å·¥å…·å’Œè½¯ä»¶:
+µç×ÓÑ§Ï°ÏîÄ¿
+
+**Ã¿¸öÏîÄ¿ÓÐÏîÄ¿Òªµã£¬ÔÚËÑË÷ÒýÇæ¡¢ÂÛÌ³¡¢Êé¼®²éÕÒÏàÓ¦ÄÚÈÝ½øÐÐÑ§Ï°¡£**
+
+## ¹¤¾ßºÍÈí¼þ:
+
 * Everycircuit(Android)
-* Proteus 7ã€Proteus 8
-* å®žé™…ç¡¬ä»¶
+* Proteus 7¡¢Proteus 8
+* Êµ¼ÊÓ²¼þ
 
-ç›¸å…³åšå®¢è®ºå›(éƒ½æ˜¯å¤§ä½¬):
+## Ïà¹Ø²©¿ÍÂÛÌ³(¶¼ÊÇ´óÀÐ):
+
 * [CSDN](https://www.csdn.net/)
-* [ç”µå­å‘çƒ§å‹è®ºå›](http://bbs.elecfans.com/)
-* [21Cä¸­å›½ç”µå­ç½‘è®ºå›](http://bbs.21ic.com/)
-* [ç§‘åˆ›è®ºå›](https://www.kechuang.org/)
-* [ZVSå§ç­‰ç”µå­è´´å§](https://tieba.baidu.com/f?kw=zvs)
-* [æžå®¢è¿·](http://www.geekfans.com/)
-* [æ•™å¸ˆå§](http://jiaoshi8.com/)
-* ç­‰ç­‰ç­‰ç­‰...
+* [µç×Ó·¢ÉÕÓÑÂÛÌ³](http://bbs.elecfans.com/)
+* [21CÖÐ¹úµç×ÓÍøÂÛÌ³](http://bbs.21ic.com/)
+* [¿Æ´´ÂÛÌ³](https://www.kechuang.org/)
+* [ZVS°ÉµÈµç×ÓÌù°É](https://tieba.baidu.com/f?kw=zvs)
+* [¼«¿ÍÃÔ](http://www.geekfans.com/)
+* [½ÌÊ¦°É](http://jiaoshi8.com/)
+* µÈµÈµÈµÈ...
 
 ---
-# ä¸€ã€é¡¹ç›®
-## å…‰æŽ§ç¯
-LEDã€ç”µé˜»ã€ç”µä½å™¨ã€å…‰æ•ç”µé˜»ã€ä¸‰æžç®¡çš„ç®€å•åº”ç”¨
-è¦ç‚¹
-* å‘å…‰äºŒæžç®¡å’Œé•‡æµç”µé˜»
-* ç”µä½å™¨å’Œåˆ†åŽ‹ç”µè·¯
-* ä¸‰æžç®¡ï¼Œå°ç”µæµæŽ§åˆ¶å¤§ç”µæµ
-[ç¤ºä¾‹](./é¡¹ç›®/1.å…‰æŽ§ç¯/å…‰æŽ§ç¯.md)
-## ç›´æµç”µæº
-äºŒæžç®¡ã€å˜åŽ‹å™¨ã€ç”µå®¹çš„ç®€å•åº”ç”¨
-è¦ç‚¹
-* åŠæ¡¥æ•´æµã€å…¨æ¡¥æ•´æµå™¨
-* äº¤æµç”µå’Œå˜åŽ‹å™¨
-* äº†è§£ç”µå®¹çš„å……æ”¾ç”µã€æ»¤æ³¢
-## åŒé—ª-å¤šè°æŒ¯è¡å™¨
-ä¸‰æžç®¡ã€ç”µå®¹çš„ç®€å•åº”ç”¨
-åˆæ­¥æŽ¥è§¦æŒ¯è¡ç”µè·¯
-* ä¾‹ç¨‹
-## è§¦æ‘¸ç¯
-ä¸‰æžç®¡çº§è”
 
-## æŒç»­æ›´æ–°...
+# Ò»¡¢ÏîÄ¿
+
+## 1.¹â¿ØµÆ
+
+LED¡¢µç×è¡¢µçÎ»Æ÷¡¢¹âÃôµç×è¡¢Èý¼«¹ÜµÄ¼òµ¥Ó¦ÓÃ
+
+Òªµã
+
+* ·¢¹â¶þ¼«¹ÜºÍÕòÁ÷µç×è
+* µçÎ»Æ÷ºÍ·ÖÑ¹µçÂ·
+* Èý¼«¹Ü£¬Ð¡µçÁ÷¿ØÖÆ´óµçÁ÷
+
+[Ê¾Àý](./ÏîÄ¿/1.¹â¿ØµÆ/¹â¿ØµÆ.md)
+
+## 2.Ö±Á÷µçÔ´
+
+¶þ¼«¹Ü¡¢±äÑ¹Æ÷¡¢µçÈÝµÄ¼òµ¥Ó¦ÓÃ
+
+Òªµã
+
+* °ëÇÅÕûÁ÷¡¢È«ÇÅÕûÁ÷Æ÷
+* ½»Á÷µçºÍ±äÑ¹Æ÷
+* ÁË½âµçÈÝµÄ³ä·Åµç¡¢ÂË²¨
+
+## 3.Ë«ÉÁ-¶àÐ³Õñµ´Æ÷
+
+Èý¼«¹Ü¡¢µçÈÝµÄ¼òµ¥Ó¦ÓÃ
+
+³õ²½½Ó´¥Õñµ´µçÂ·
+
+* Àý³Ì
+
+## 4.´¥ÃþµÆ
+
+Èý¼«¹Ü¼¶Áª
+
+## ³ÖÐø¸üÐÂ...
 
 ---
-# äºŒã€é™„åŠ é¡¹
+
+# ¶þ¡¢¸½¼ÓÏî
+
 ## Git
-å­¦ä¹ ä½¿ç”¨gitåŠgithub
-## èŽ·å–æ›´å¤šçŸ¥è¯†
-å­¦ä¹ è®¿é—®å¦‚EveryCircuitç­‰è½¯ä»¶çš„æµ·å¤–æœåŠ¡å™¨çš„æ–¹æ³•
+
+Ñ§Ï°Ê¹ÓÃgit¼°github
+
+## »ñÈ¡¸ü¶àÖªÊ¶
+
+Ñ§Ï°·ÃÎÊÈçEveryCircuitµÈÈí¼þµÄº£Íâ·þÎñÆ÷µÄ·½·¨
