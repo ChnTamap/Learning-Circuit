@@ -5,6 +5,15 @@ Lesson of circuit for SinceTech.
 * Everycircuit(Android)
 * Proteus 7、Proteus 8
 * 实际硬件
+相关博客论坛(都是大佬):
+* [CSDN](https://www.csdn.net/)
+* [电子发烧友论坛](http://bbs.elecfans.com/)
+* [21C中国电子网论坛](http://bbs.21ic.com/)
+* [科创论坛](https://www.kechuang.org/)
+* [ZVS吧等电子贴吧](https://tieba.baidu.com/f?kw=zvs)
+* [极客迷](http://www.geekfans.com/)
+* [教师吧](http://jiaoshi8.com/)
+* 等等等等...
 
 ---
 # 一、项目
