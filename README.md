@@ -8,8 +8,11 @@ Lesson of circuit for SinceTech.
 
 ## 工具和软件:
 
-* Everycircuit(Android)
-* Proteus 7、Proteus 8
+根据自身情况选择
+
+* 仿真软件[Everycircuit](http://www.everycircuit.com)(Android,IOS,Chrome)
+* 仿真软件Proteus 7、Proteus 8 或 NI
+* 数据查询软件ElectroDroid、DOKA
 * 实际硬件
 
 ## 相关博客论坛(都是大佬):
@@ -66,6 +69,14 @@ LED、电阻、电位器、光敏电阻、三极管的简单应用
 ---
 
 # 二、附加项
+
+根据自己的条件选择性进行一部分
+
+## 拥有自己的电路制作工具
+
+* 电烙铁、烙铁架、海绵、焊锡丝、松香、镊子、尖嘴钳、斜口钳等焊接工具
+* 万用表、电源等实验工具
+* 夹台、放大镜等辅助工具
 
 ## Git
 
