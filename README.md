@@ -10,7 +10,7 @@ Lesson of circuit for SinceTech.
 
 根据自身情况选择
 
-* 仿真软件[Everycircuit](http://www.everycircuit.com)(Android,IOS,Chrome)
+* 仿真软件[Everycircuit](http://www.everycircuit.com)(Android,IOS,Chrome) 
 * 仿真软件Proteus 7、Proteus 8 或 NI
 * 数据查询软件ElectroDroid、DOKA
 * 实际硬件
@@ -79,6 +79,8 @@ LED、电阻、电位器、光敏电阻、三极管的简单应用
 * 夹台、放大镜等辅助工具
 
 ## Git
+
+![Git](https://git-scm.com//images/logo@2x.png)
 
 学习使用git及github
 
